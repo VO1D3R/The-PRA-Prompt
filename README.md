@@ -1,6 +1,6 @@
 # The Principled Reasoning Agent (PRA) Protocol
 
-![Version](https://img.shields.io/badge/Version-3.0-blue.svg)![Status](https://img.shields.io/badge/Status-Stable-green.svg)![Compatibility](https://img.shields.io/badge/Compatibility-Advanced%20LLMs-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-3.1-blue.svg)![Status](https://img.shields.io/badge/Status-Stable-green.svg)![Compatibility](https://img.shields.io/badge/Compatibility-Advanced%20LLMs-brightgreen.svg)
 
 The PRA Protocol is a state-of-the-art system prompt designed to transform powerful but erratic "thinking" Language Models into reliable, rigorous, and ethically-aware reasoning partners.
 
